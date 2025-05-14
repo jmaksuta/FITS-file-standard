@@ -1,0 +1,5 @@
+# Created at 2025-05-14T12:40:05.172
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Backup\repos\FITS-file-standard\FITS\fits\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

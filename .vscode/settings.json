@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "FITS\\src\\main\\java"
+    ],
+    "java.project.referencedLibraries": [
+        "f:\\Backup\\repos\\FITS-file-standard\\lib\\junit-platform-console-standalone-1.13.0-M3.jar"
+    ]
+}
