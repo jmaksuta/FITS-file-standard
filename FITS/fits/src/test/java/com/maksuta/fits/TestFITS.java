@@ -12,4 +12,11 @@ public class TestFITS {
         assertNotNull(fits);
     }
 
+    @Test
+    public void testFileStructure() {
+        FITS fits = new FITS();
+        FitsBlock primaryHDU = fits.getPrimaryHDU();
+        assertNotNull(primaryHDU);
+    }
+
 }
